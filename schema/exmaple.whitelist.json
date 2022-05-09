@@ -1,0 +1,44 @@
+{
+  "name": "My Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "network": "mainnet",
+      "type": "FA12",
+      "contractAddress": "tez",
+      "metadata": {
+        "decimals": 6,
+        "name": "Tezos",
+        "symbol": "TEZ",
+        "thumbnailUri": "https://cloudflare-ipfs.com/ipfs/Qmf3brydfr8c6CKGUUu73Dd7wfBw66Zbzof5E1BWGeU222"
+      },
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "contractAddress": "KT193D4vozYnhGJQVtw7CoxxqphqUEEwK6Vb",
+      "fa2TokenId": "0",
+      "metadata": {
+        "decimals": 6,
+        "symbol": "QUIPU",
+        "name": "Quipuswap Governance Token",
+        "thumbnailUri": "ipfs://Qmb2GiHN9EjcrN29J6y9PsXu3ZDosXTv6uLUWGZfRRSzS2/quipu.png"
+      },
+      "tags": []
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

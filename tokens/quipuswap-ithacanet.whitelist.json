@@ -1,0 +1,62 @@
+{
+  "name": "Quipuswap List",
+  "timestamp": "2022-03-31T17:15:20.022Z",
+  "version": {
+    "major": 17,
+    "minor": 4,
+    "patch": 0
+  },
+  "keywords": [
+    "Quipuswap",
+    "List"
+  ],
+  "logoURI": "https://cloudflare-ipfs.com/ipfs/Qmb2GiHN9EjcrN29J6y9PsXu3ZDosXTv6uLUWGZfRRSzS2/quipu.png",
+  "tokens": [
+    {
+      "network": "ithacanet",
+      "type": "FA12",
+      "contractAddress": "KT1BRxbKjhRabGSB6saqK6QrBenaSvFJSgHu",
+      "metadata": {
+        "decimals": 10,
+        "symbol": "Apple",
+        "name": "Apple Token",
+        "thumbnailUri": "https://ipfs.io/ipfs/QmVrwGoCc2K55wPM92Tkrj79iNdZsKNn2NxJAtA21D1eJh"
+      }
+    },
+    {
+      "network": "ithacanet",
+      "type": "FA12",
+      "contractAddress": "KT1PzyU2nXYW8RkoFqmqWPFCA7bgC7yGNRoC",
+      "metadata": {
+        "decimals": 12,
+        "symbol": "GOLD",
+        "name": "GOLD Token",
+        "thumbnailUri": "https://ipfs.io/ipfs/QmSjHurqeafCMnZHXAauuph7TB8uwmArY1DqABFdv5FiFV"
+      }
+    },
+    {
+      "network": "ithacanet",
+      "type": "FA2",
+      "contractAddress": "KT1SMhGgVwhm2JQjU4hDcpt4w1p7brxxFRPD",
+      "fa2TokenId": 0,
+      "metadata": {
+        "decimals": 8,
+        "symbol": "wWBTC",
+        "name": "Wrapped WBTC",
+        "thumbnailUri": "https://ipfs.io/ipfs/Qmdj6n9T48LDWex8NkBMKUQJfZgardxZVdtRRibYQVzLCJ"
+      }
+    },
+    {
+      "network": "ithacanet",
+      "type": "FA2",
+      "contractAddress": "KT1XH2e9mwvZmR7NBcx1qwskZKxePtMwheak",
+      "fa2TokenId": 0,
+      "metadata": {
+        "decimals": 18,
+        "symbol": "wWETH",
+        "name": "Wrapped WETH",
+        "thumbnailUri": "https://ipfs.io/ipfs/Qmezz1ztvo5JFshHupBEdUzVppyMfJH6K4kPjQRSZp8cLq"
+      }
+    }
+  ]
+}
