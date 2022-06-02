@@ -790,6 +790,102 @@
         "decimals": 6,
         "thumbnailUri": "ipfs://QmcqsYQn8pTxQr3P1dYpgYxQa6GQPmoBTSWQ8bpuFEuaqe"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 0,
+      "contractAddress": "KT1UsSfaXyqcjSVPeiD7U1bWgKy3taYN7NWY",
+      "metadata": {
+        "name": "Ethereum WETH",
+        "symbol": "WETH.e",
+        "decimals": 18,
+        "thumbnailUri": "ipfs://bafybeieqpwi26snvx5gxhcmuv3lomi34iljayzawoa6gewosmviu4ii2bi"
+      }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 1,
+      "contractAddress": "KT1UsSfaXyqcjSVPeiD7U1bWgKy3taYN7NWY",
+      "metadata": {
+        "name": "Ethereum WBTC",
+        "symbol": "WBTC.e",
+        "decimals": 18,
+        "thumbnailUri": "ipfs://bafybeia7grvsvx2tno4qmwcatsnfdo7whi3elp2xidvg6iqxqkm4in2ife"
+      }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 2,
+      "contractAddress": "KT1UsSfaXyqcjSVPeiD7U1bWgKy3taYN7NWY",
+      "metadata": {
+        "name": "Ethereum USDC",
+        "symbol": "USDC.e",
+        "decimals": 18,
+        "thumbnailUri": "ipfs://bafybeic4zn6dqvbzfdsnlr7hbmddpl65i6hfmt6b2dppjxy3tako3vmovy"
+      }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 3,
+      "contractAddress": "KT1UsSfaXyqcjSVPeiD7U1bWgKy3taYN7NWY",
+      "metadata": {
+        "name": "Ethereum USDT",
+        "symbol": "USDT.e",
+        "decimals": 18,
+        "thumbnailUri": "ipfs://bafybeibi45na6dimqwdznpj6m254vos6hez7232mqrrbj27xzwsh36gz4i"
+      }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 4,
+      "contractAddress": "KT1UsSfaXyqcjSVPeiD7U1bWgKy3taYN7NWY",
+      "metadata": {
+        "name": "Ethereum MATIC",
+        "symbol": "MATIC.e",
+        "decimals": 18,
+        "thumbnailUri": "ipfs://bafybeihluaaujem7nrt36bkhhfjl6wbkqugpt3hipgofh3vdui24wseupy"
+      }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 5,
+      "contractAddress": "KT1UsSfaXyqcjSVPeiD7U1bWgKy3taYN7NWY",
+      "metadata": {
+        "name": "Ethereum LINK",
+        "symbol": "LINK.e",
+        "decimals": 18,
+        "thumbnailUri": "ipfs://bafybeic4q4bet3il3gdwgjqxs4i2czi6uujbyltan7liat5oyxmccp5sce"
+      }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 6,
+      "contractAddress": "KT1UsSfaXyqcjSVPeiD7U1bWgKy3taYN7NWY",
+      "metadata": {
+        "name": "Ethereum DAI",
+        "symbol": "DAI.e",
+        "decimals": 18,
+        "thumbnailUri": "ipfs://bafybeicqbt2gepdljrjpcsaypkyjhbmuvra6jkpcwmmw6qgtwfu7dcdezy"
+      }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 7,
+      "contractAddress": "KT1UsSfaXyqcjSVPeiD7U1bWgKy3taYN7NWY",
+      "metadata": {
+        "name": "Ethereum BUSD",
+        "symbol": "BUSD.e",
+        "decimals": 18,
+        "thumbnailUri": "ipfs://bafybeidzwaurmronh7acpctit44q53riuwjsvp6b2r4hxublkeb3zhlkru"
+      }
     }
   ]
 }
