@@ -778,6 +778,18 @@
         "name": "DOGAMI",
         "thumbnailUri": "ipfs://QmW8sa5UygUKg58LLzK7NoEDtCRyAQU4wZh1rbpFa6j7kP"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 0,
+      "contractAddress": "KT1JBNFcB5tiycHNdYGYCtR3kk6JaJysUCi8",
+      "metadata": {
+        "name": "Lugh Euro pegged stablecoin",
+        "symbol": "EURL",
+        "decimals": 6,
+        "thumbnailUri": "ipfs://QmcqsYQn8pTxQr3P1dYpgYxQa6GQPmoBTSWQ8bpuFEuaqe"
+      }
     }
   ]
 }
