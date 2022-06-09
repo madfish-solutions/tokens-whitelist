@@ -652,30 +652,6 @@
       "network": "mainnet",
       "type": "FA2",
       "fa2TokenId": 0,
-      "contractAddress": "KT1Wa8yqRBpFCusJWgcQyjhRz7hUQAmFxW7j",
-      "metadata": {
-        "decimals": 6,
-        "name": "FLAME",
-        "symbol": "FLAME",
-        "thumbnailUri": "https://spacefarm.xyz/images/flamelogo.png"
-      }
-    },
-    {
-      "network": "mainnet",
-      "type": "FA2",
-      "fa2TokenId": 0,
-      "contractAddress": "KT1KPoyzkj82Sbnafm6pfesZKEhyCpXwQfMc",
-      "metadata": {
-        "decimals": 6,
-        "name": "fDAO",
-        "symbol": "fDAO",
-        "thumbnailUri": "https://spacefarm.xyz/images/fdaologo.png"
-      }
-    },
-    {
-      "network": "mainnet",
-      "type": "FA2",
-      "fa2TokenId": 0,
       "contractAddress": "KT1F1mn2jbqQCJcsNgYKVAQjvenecNMY2oPK",
       "metadata": {
         "decimals": 6,
