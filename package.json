@@ -1,9 +1,11 @@
 {
-  "name": "tokens-whitelist",
+  "name": "@quipuswap/tokens-whitelist",
   "version": "1.0.0",
   "description": "MadFish Whitelisted tokens",
   "repository": "git@github.com:madfish-solutions/tokens-whitelist.git",
   "author": "MadFish Solutions",
   "license": "MIT",
-  "private": false
+  "bugs": {
+    "url": "https://github.com/madfish-solutions/tokens-whitelist/issues"
+  },
 }
