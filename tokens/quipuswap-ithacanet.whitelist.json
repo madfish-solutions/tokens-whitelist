@@ -6,10 +6,7 @@
     "minor": 4,
     "patch": 0
   },
-  "keywords": [
-    "Quipuswap",
-    "List"
-  ],
+  "keywords": ["Quipuswap", "List"],
   "logoURI": "https://cloudflare-ipfs.com/ipfs/Qmb2GiHN9EjcrN29J6y9PsXu3ZDosXTv6uLUWGZfRRSzS2/quipu.png",
   "tokens": [
     {
@@ -43,7 +40,7 @@
         "decimals": 12,
         "symbol": "uBTC",
         "name": "Test youves BTC",
-        "thumbnailUri": "https://kolibri-data.s3.amazonaws.com/logo.png"
+        "thumbnailUri": "https://app.youves.com/assets/img/symbols/ubtc.svg"
       }
     },
     {
