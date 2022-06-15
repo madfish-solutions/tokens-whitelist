@@ -37,49 +37,58 @@
     {
       "network": "ithacanet",
       "type": "FA2",
-      "contractAddress": "KT1SMhGgVwhm2JQjU4hDcpt4w1p7brxxFRPD",
-      "fa2TokenId": 0,
+      "contractAddress": "KT1N4NfnYmJucXYkuPdvJG4Jxbz3TetCTqJc",
+      "fa2TokenId": 2,
+      "metadata": {
+        "decimals": 12,
+        "symbol": "uBTC",
+        "name": "Test youves BTC",
+        "thumbnailUri": "https://kolibri-data.s3.amazonaws.com/logo.png"
+      }
+    },
+    {
+      "network": "ithacanet",
+      "type": "FA12",
+      "contractAddress": "KT1Wdq6sj3ZkNqQ7CeE6kTNbJXfobMX7Eqpz",
       "metadata": {
         "decimals": 8,
-        "symbol": "wWBTC",
-        "name": "Wrapped WBTC",
-        "thumbnailUri": "https://ipfs.io/ipfs/Qmdj6n9T48LDWex8NkBMKUQJfZgardxZVdtRRibYQVzLCJ"
+        "symbol": "tzBTC",
+        "name": "Test tzBTC",
+        "thumbnailUri": "https://services.tzkt.io/v1/avatars/KT1PWx2mnDueood7fEmfbBDKx1D9BAnnXitn"
       }
     },
     {
       "network": "ithacanet",
       "type": "FA2",
-      "contractAddress": "KT1XH2e9mwvZmR7NBcx1qwskZKxePtMwheak",
+      "contractAddress": "KT1N4NfnYmJucXYkuPdvJG4Jxbz3TetCTqJc",
       "fa2TokenId": 0,
+      "metadata": {
+        "decimals": 12,
+        "symbol": "uUSD",
+        "name": "Test youves USD",
+        "thumbnailUri": "ipfs://QmbvhanNCxydZEbGu1RdqkG3LcpNGv7XYsCHgzWBXnmxRd"
+      }
+    },
+    {
+      "network": "ithacanet",
+      "type": "FA12",
+      "contractAddress": "KT1GG8Zd5rUp1XV8nMPRBY2tSyVn6NR5F4Q1",
       "metadata": {
         "decimals": 18,
-        "symbol": "wWETH",
-        "name": "Wrapped WETH",
-        "thumbnailUri": "https://ipfs.io/ipfs/Qmezz1ztvo5JFshHupBEdUzVppyMfJH6K4kPjQRSZp8cLq"
+        "symbol": "kUSD",
+        "name": "Test Kolibri USD",
+        "thumbnailUri": "https://kolibri-data.s3.amazonaws.com/logo.png"
       }
     },
     {
       "network": "ithacanet",
-      "type": "FA2",
-      "contractAddress": "KT1Pi7WthYrAtMBTCFmx66h2MrosTt7w1khh",
-      "fa2TokenId": 17,
+      "type": "FA12",
+      "contractAddress": "KT1QzmrMs1xUXZJ8TPAoDEFaKC6w56RfdLWo",
       "metadata": {
-        "symbol": "wUSDC",
-        "name": "Wrapped USDC",
         "decimals": 6,
-        "thumbnailUri": "ipfs://QmQfHU9mYLRDU4yh2ihm3zrvVFxDrLPiXNYtMovUQE2S2t"
-      }
-    },
-    {
-      "network": "ithacanet",
-      "type": "FA2",
-      "contractAddress": "KT1Pi7WthYrAtMBTCFmx66h2MrosTt7w1khh",
-      "fa2TokenId": 19,
-      "metadata": {
-        "symbol": "wWBTC",
-        "name": "Wrapped WBTC",
-        "decimals": 8,
-        "thumbnailUri": "ipfs://Qmdj6n9T48LDWex8NkBMKUQJfZgardxZVdtRRibYQVzLCJ"
+        "symbol": "USDtz",
+        "name": "Test USDtez",
+        "thumbnailUri": "https://services.tzkt.io/v1/avatars/KT1LN4LPSqTMS7Sd2CJw4bbDGRkMv2t68Fy9"
       }
     }
   ]
