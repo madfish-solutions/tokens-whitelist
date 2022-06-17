@@ -799,7 +799,7 @@
       "metadata": {
         "name": "Ethereum USDC",
         "symbol": "USDC.e",
-        "decimals": 18,
+        "decimals": 6,
         "thumbnailUri": "ipfs://bafybeic4zn6dqvbzfdsnlr7hbmddpl65i6hfmt6b2dppjxy3tako3vmovy"
       }
     },
