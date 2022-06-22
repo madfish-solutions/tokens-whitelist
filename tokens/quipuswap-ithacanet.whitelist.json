@@ -6,7 +6,10 @@
     "minor": 4,
     "patch": 0
   },
-  "keywords": ["Quipuswap", "List"],
+  "keywords": [
+    "Quipuswap",
+    "List"
+  ],
   "logoURI": "https://cloudflare-ipfs.com/ipfs/Qmb2GiHN9EjcrN29J6y9PsXu3ZDosXTv6uLUWGZfRRSzS2/quipu.png",
   "tokens": [
     {
@@ -86,6 +89,18 @@
         "symbol": "USDtz",
         "name": "Test USDtez",
         "thumbnailUri": "https://services.tzkt.io/v1/avatars/KT1LN4LPSqTMS7Sd2CJw4bbDGRkMv2t68Fy9"
+      }
+    },
+    {
+      "network": "ithacanet",
+      "type": "FA2",
+      "contractAddress": "KT1A4W7CfD5sKkWXJke392jVmxSA6vaHrdWk",
+      "fa2TokenId": 2,
+      "metadata": {
+        "decimals": 6,
+        "symbol": "USDC.e",
+        "name": "Ethereum USDC",
+        "thumbnailUri": "ipfs://bafybeic4zn6dqvbzfdsnlr7hbmddpl65i6hfmt6b2dppjxy3tako3vmovy"
       }
     }
   ]
