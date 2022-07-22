@@ -862,6 +862,18 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://bafybeidzwaurmronh7acpctit44q53riuwjsvp6b2r4hxublkeb3zhlkru"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 0,
+      "contractAddress": "KT1XnTn74bUtxHfDtBmm2bGZAQfhPbvKWR8o",
+      "metadata": {
+        "name": "Tether USD",
+        "symbol": "USDt",
+        "decimals": 6,
+        "thumbnailUri": "ipfs://QmRymVGWEudMfLrbjaEiXxngCRTDgWCsscjQMwizy4ZJjX"
+      }
     }
   ]
 }
