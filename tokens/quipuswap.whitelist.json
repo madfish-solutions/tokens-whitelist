@@ -874,6 +874,17 @@
         "decimals": 6,
         "thumbnailUri": "ipfs://QmRymVGWEudMfLrbjaEiXxngCRTDgWCsscjQMwizy4ZJjX"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA12",
+      "contractAddress": "KT1AafHA1C1vk959wvHWBispY9Y2f3fxBUUo",
+      "metadata": {
+        "name": "Sirius",
+        "symbol": "SIRS",
+        "decimals": 0,
+        "thumbnailUri": "https://drive.google.com/file/d/1zhf0e5iqXgAWU6dfZbAd3Ftld4DFpubB/view"
+      }
     }
   ]
 }
