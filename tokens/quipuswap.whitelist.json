@@ -885,6 +885,18 @@
         "decimals": 0,
         "thumbnailUri": "ipfs://QmNXQPkRACxaR17cht5ZWaaKiQy46qfCwNVT5FGZy6qnyp"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "contractAddress": "KT1T87QbpXEVgkwsNPzz8iRoah3SS3D1MDmh",
+      "fa2TokenId": 0,
+      "metadata": {
+        "name": "BTCtez",
+        "symbol": "BTCtz",
+        "decimals": 8,
+        "thumbnailUri": "ipfs://QmfAJX4A534cpp2XjDGSM8b8PrqnSt8b7ytuteY8MXkBPD"
+      }
     }
   ]
 }
