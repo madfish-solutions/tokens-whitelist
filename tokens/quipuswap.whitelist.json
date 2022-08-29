@@ -57,8 +57,7 @@
         "symbol": "wXTZ",
         "name": "Wrapped Tezos",
         "thumbnailUri": "https://raw.githubusercontent.com/StakerDAO/wrapped-xtz/dev/assets/wXTZ-token-FullColor.png"
-      },
-      "categories": ["Bridge"]
+      }
     },
     {
       "network": "mainnet",
@@ -641,8 +640,7 @@
         "name": "Ctez",
         "symbol": "ctez",
         "thumbnailUri": "ipfs://Qme4ybadbY4H84h5WLPjdo47YQUxxVoJHWZrwYq2JZriM4"
-      },
-      "categories": ["Bridge"]
+      }
     },
     {
       "network": "mainnet",
@@ -677,8 +675,7 @@
         "name": "WTZ",
         "symbol": "WTZ",
         "thumbnailUri": "ipfs://bafybeidwsid6fvv4vxbqja7er3b4exsht5r7umv6hpz7rc3ujg7xilhwv4"
-      },
-      "categories": ["Bridge"]
+      }
     },
     {
       "network": "mainnet",
@@ -919,7 +916,7 @@
         "decimals": 6,
         "thumbnailUri": "ipfs://QmRymVGWEudMfLrbjaEiXxngCRTDgWCsscjQMwizy4ZJjX"
       },
-      "categories": ["Stable", "Bridge"]
+      "categories": ["Stable"]
     },
     {
       "network": "mainnet",
