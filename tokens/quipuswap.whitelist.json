@@ -787,7 +787,7 @@
       "metadata": {
         "name": "Ethereum WBTC",
         "symbol": "WBTC.e",
-        "decimals": 18,
+        "decimals": 8,
         "thumbnailUri": "ipfs://bafybeia7grvsvx2tno4qmwcatsnfdo7whi3elp2xidvg6iqxqkm4in2ife"
       }
     },
@@ -811,7 +811,7 @@
       "metadata": {
         "name": "Ethereum USDT",
         "symbol": "USDT.e",
-        "decimals": 18,
+        "decimals": 6,
         "thumbnailUri": "ipfs://bafybeibi45na6dimqwdznpj6m254vos6hez7232mqrrbj27xzwsh36gz4i"
       }
     },
