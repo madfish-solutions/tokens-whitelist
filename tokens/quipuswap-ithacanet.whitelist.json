@@ -44,7 +44,8 @@
         "symbol": "uBTC",
         "name": "Test youves BTC",
         "thumbnailUri": "https://app.youves.com/assets/img/symbols/ubtc.svg"
-      }
+      },
+      "categories": ["BTC-based"]
     },
     {
       "network": "ithacanet",
@@ -55,7 +56,8 @@
         "symbol": "tzBTC",
         "name": "Test tzBTC",
         "thumbnailUri": "https://services.tzkt.io/v1/avatars/KT1PWx2mnDueood7fEmfbBDKx1D9BAnnXitn"
-      }
+      },
+      "categories": ["BTC-based"]
     },
     {
       "network": "ithacanet",
@@ -67,7 +69,8 @@
         "symbol": "uUSD",
         "name": "Test youves USD",
         "thumbnailUri": "ipfs://QmbvhanNCxydZEbGu1RdqkG3LcpNGv7XYsCHgzWBXnmxRd"
-      }
+      },
+      "categories": ["Stable"]
     },
     {
       "network": "ithacanet",
@@ -78,7 +81,8 @@
         "symbol": "kUSD",
         "name": "Test Kolibri USD",
         "thumbnailUri": "https://kolibri-data.s3.amazonaws.com/logo.png"
-      }
+      },
+      "categories": ["Stable"]
     },
     {
       "network": "ithacanet",
@@ -89,7 +93,8 @@
         "symbol": "USDtz",
         "name": "Test USDtez",
         "thumbnailUri": "https://services.tzkt.io/v1/avatars/KT1LN4LPSqTMS7Sd2CJw4bbDGRkMv2t68Fy9"
-      }
+      },
+      "categories": ["Stable"]
     },
     {
       "network": "ithacanet",
@@ -101,7 +106,8 @@
         "symbol": "USDC.e",
         "name": "Ethereum USDC",
         "thumbnailUri": "ipfs://bafybeic4zn6dqvbzfdsnlr7hbmddpl65i6hfmt6b2dppjxy3tako3vmovy"
-      }
+      },
+      "categories": ["Stable", "Bridge"]
     }
   ]
 }
