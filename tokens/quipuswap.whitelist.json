@@ -941,6 +941,44 @@
         "thumbnailUri": "ipfs://QmfAJX4A534cpp2XjDGSM8b8PrqnSt8b7ytuteY8MXkBPD"
       },
       "categories": ["BTC-based"]
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "contractAddress": "KT1UG6PdaKoJcc3yD6mkFVfxnS1uJeW3cGeX",
+      "fa2TokenId": 0,
+      "metadata": {
+        "decimals": 6,
+        "symbol": "ABR",
+        "name": "Allbridge",
+        "thumbnailUri": "https://raw.githubusercontent.com/allbridge-io/media/main/token256.png"
+      }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "contractAddress": "KT1UG6PdaKoJcc3yD6mkFVfxnS1uJeW3cGeX",
+      "fa2TokenId": 1,
+      "metadata": {
+        "decimals": 6,
+        "symbol": "abBUSD",
+        "name": "Allbridge Wrapped BUSD",
+        "thumbnailUri": "https://raw.githubusercontent.com/allbridge-io/media/main/busd256.png"
+      },
+      "categories": ["Bridge"]
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "contractAddress": "KT1UG6PdaKoJcc3yD6mkFVfxnS1uJeW3cGeX",
+      "fa2TokenId": 2,
+      "metadata": {
+        "decimals": 6,
+        "symbol": "apUSDC",
+        "name": "Allbridge Wrapped Polygon USDC",
+        "thumbnailUri": "https://raw.githubusercontent.com/allbridge-io/media/main/usdc256.png"
+      },
+      "categories": ["Bridge"]
     }
   ]
 }
