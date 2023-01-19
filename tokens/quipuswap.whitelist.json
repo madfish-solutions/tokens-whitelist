@@ -979,6 +979,17 @@
         "thumbnailUri": "https://raw.githubusercontent.com/allbridge-io/media/main/usdc256.png"
       },
       "categories": ["Bridge"]
+    },
+    {
+      "network": "mainnet",
+      "type": "FA12",
+      "contractAddress": "KT1JVjgXPMMSaa6FkzeJcgb8q9cUaLmwaJUX",
+      "metadata": {
+        "decimals": 18,
+        "symbol": "PLY",
+        "name": "Plenty PLY",
+        "thumbnailUri": "https://ipfs.io/ipfs/QmQs2XZLFszq5npkYdt3oDTazw1XxpGYHJWL8o3LTGzVkU"
+      }
     }
   ]
 }
