@@ -988,7 +988,7 @@
         "decimals": 18,
         "symbol": "PLY",
         "name": "Plenty PLY",
-        "thumbnailUri": "https://ipfs.io/ipfs/QmQs2XZLFszq5npkYdt3oDTazw1XxpGYHJWL8o3LTGzVkU"
+        "thumbnailUri": "ipfs://QmQs2XZLFszq5npkYdt3oDTazw1XxpGYHJWL8o3LTGzVkU"
       }
     }
   ]
