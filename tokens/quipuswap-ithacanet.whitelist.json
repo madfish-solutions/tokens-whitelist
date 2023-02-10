@@ -15,6 +15,17 @@
     {
       "network": "ithacanet",
       "type": "FA12",
+      "contractAddress": "tez",
+      "metadata": {
+        "decimals": 6,
+        "name": "Tezos",
+        "symbol": "TEZ",
+        "thumbnailUri": "https://cloudflare-ipfs.com/ipfs/Qmf3brydfr8c6CKGUUu73Dd7wfBw66Zbzof5E1BWGeU222"
+      }
+    },
+    {
+      "network": "ithacanet",
+      "type": "FA12",
       "contractAddress": "KT1BRxbKjhRabGSB6saqK6QrBenaSvFJSgHu",
       "metadata": {
         "decimals": 10,
@@ -108,6 +119,19 @@
         "thumbnailUri": "ipfs://bafybeic4zn6dqvbzfdsnlr7hbmddpl65i6hfmt6b2dppjxy3tako3vmovy"
       },
       "categories": ["Stable", "Bridge"]
+    },
+    {
+      "network": "ithacanet",
+      "type": "FA2",
+      "contractAddress": "KT19363aZDTjeRyoDkSLZhCk62pS4xfvxo6c",
+      "fa2TokenId": 0,
+      "metadata": {
+        "decimals": 6,
+        "symbol": "QUIPU",
+        "name": "Quipuswap Governance Token",
+        "thumbnailUri": "ipfs://Qmb2GiHN9EjcrN29J6y9PsXu3ZDosXTv6uLUWGZfRRSzS2/quipu.png"
+      },
+      "categories": ["QuipuSwap"]
     }
   ]
 }
