@@ -132,6 +132,18 @@
         "thumbnailUri": "ipfs://Qmb2GiHN9EjcrN29J6y9PsXu3ZDosXTv6uLUWGZfRRSzS2/quipu.png"
       },
       "categories": ["QuipuSwap"]
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 0,
+      "contractAddress": "KT1L8ujeb25JWKa4yPB61ub4QG2NbaKfdJDK",
+      "metadata": {
+        "decimals": 6,
+        "symbol": "wTEZ",
+        "name": "Wrapped Tezos FA2 token",
+        "thumbnailUri": "ipfs://QmUWhCYXtC8r8aXgjrwsLrZmopiGMHdLWoQzEueAktJbHB"
+      }
     }
   ]
 }

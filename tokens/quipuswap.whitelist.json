@@ -990,6 +990,30 @@
         "name": "Plenty PLY",
         "thumbnailUri": "ipfs://QmQs2XZLFszq5npkYdt3oDTazw1XxpGYHJWL8o3LTGzVkU"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 0,
+      "contractAddress": "KT1UpeXdK6AJbX58GJ92pLZVCucn2DR8Nu4b",
+      "metadata": {
+        "decimals": 6,
+        "symbol": "wTEZ",
+        "name": "Wrapped Tezos FA2 token",
+        "thumbnailUri": "ipfs://QmUWhCYXtC8r8aXgjrwsLrZmopiGMHdLWoQzEueAktJbHB"
+      }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 3,
+      "contractAddress": "KT1XRPEPXbZK25r3Htzp2o1x7xdMMmfocKNW",
+      "metadata": {
+        "name": "youves uXTZ",
+        "symbol": "uXTZ",
+        "decimals": 12,
+        "thumbnailUri": "ipfs://QmZe16xqundEf6JcRuct6gmoUE7wQM5cNHWPLrZhUY3v6Z"
+      }
     }
   ]
 }
