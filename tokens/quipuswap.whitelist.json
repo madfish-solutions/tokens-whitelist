@@ -1014,6 +1014,18 @@
         "decimals": 12,
         "thumbnailUri": "ipfs://QmZe16xqundEf6JcRuct6gmoUE7wQM5cNHWPLrZhUY3v6Z"
       }
+    },
+    {
+      "network":"mainnet",
+      "type":"FA2",
+      "fa2TokenId":0,
+      "contractAddress":"KT1UMx7aZQWNKY9nC4LRYNsueEiGMfpcQhhD",
+      "metadata": {
+        "name":"Lyzi",
+        "symbol":"LYZI",
+        "decimals":6,
+        "thumbnailUri":"ipfs://QmdqDheWwndbcxuGg6p5VyPbVvEwgCYexCQc5hJy2WZojq"
+      }
     }
   ]
 }
