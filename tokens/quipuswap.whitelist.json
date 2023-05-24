@@ -1026,6 +1026,18 @@
         "decimals":6,
         "thumbnailUri":"ipfs://QmdqDheWwndbcxuGg6p5VyPbVvEwgCYexCQc5hJy2WZojq"
       }
+    },
+    {
+      "network":"mainnet",
+      "type":"FA2",
+      "fa2TokenId":0,
+      "contractAddress":"KT1WihWRnmzhfebi6zqQ4tvNGiPeVxiGwTi2",
+      "metadata":{
+        "name":"Temple Key",
+        "symbol":"TKEY",
+        "decimals":18,
+        "thumbnailUri":"ipfs://Qmb9QUXYn1PW8e7E2CwpBMgEur7gFAPPpq2Zh7H2D7eQcT"
+      }
     }
   ]
 }
