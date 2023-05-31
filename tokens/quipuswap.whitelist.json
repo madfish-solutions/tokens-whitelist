@@ -33,7 +33,9 @@
         "name": "Kolibri",
         "thumbnailUri": "https://kolibri-data.s3.amazonaws.com/logo.png"
       },
-      "categories": ["Stable"]
+      "categories": [
+        "Stable"
+      ]
     },
     {
       "network": "mainnet",
@@ -46,7 +48,9 @@
         "name": "Quipuswap Governance Token",
         "thumbnailUri": "ipfs://Qmb2GiHN9EjcrN29J6y9PsXu3ZDosXTv6uLUWGZfRRSzS2/quipu.png"
       },
-      "categories": ["QuipuSwap"]
+      "categories": [
+        "QuipuSwap"
+      ]
     },
     {
       "network": "mainnet",
@@ -70,7 +74,9 @@
         "name": "Stably USD",
         "thumbnailUri": "ipfs://Qmb2GiHN9EjcrN29J6y9PsXu3ZDosXTv6uLUWGZfRRSzS2/stably.png"
       },
-      "categories": ["Stable"]
+      "categories": [
+        "Stable"
+      ]
     },
     {
       "network": "mainnet",
@@ -82,7 +88,9 @@
         "name": "tzBTC",
         "thumbnailUri": "https://tzbtc.io/wp-content/uploads/2020/03/tzbtc_logo_single.svg"
       },
-      "categories": ["BTC-based"]
+      "categories": [
+        "BTC-based"
+      ]
     },
     {
       "network": "mainnet",
@@ -105,7 +113,9 @@
         "name": "USDtez",
         "thumbnailUri": "ipfs://Qmb2GiHN9EjcrN29J6y9PsXu3ZDosXTv6uLUWGZfRRSzS2/usdtz.png"
       },
-      "categories": ["Stable"]
+      "categories": [
+        "Stable"
+      ]
     },
     {
       "network": "mainnet",
@@ -165,7 +175,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://QmVUVanUUjHmgkjnUC6TVzG7pPz6iy7C8tnAoXNNpofYPg"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -178,7 +190,10 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://QmRB63vb8ThpmxHKF4An3XD8unHyCUuLYm5bZNhXwU4gAZ"
       },
-      "categories": ["Stable", "Bridge"]
+      "categories": [
+        "Stable",
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -191,7 +206,9 @@
         "decimals": 4,
         "thumbnailUri": "ipfs://QmfNuyU3V6XeS9PgVXMDq4h5ux1VciUXtApP2ZGC4VSGLd"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -204,7 +221,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://QmYy2jUUE69W5eE9uwh4x5LqUxHt3GVy8sjXHhpViqCspG"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -217,7 +236,9 @@
         "decimals": 8,
         "thumbnailUri": "ipfs://QmUuhxgCm2EXwddpU8ofBBh9z1qzxf2BJRbxxR1ebYr8Hd"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -230,7 +251,10 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://QmVov6RtfRNzuQGvGKmhnABUsfCiDKvn31amg8DUxzowtM"
       },
-      "categories": ["Stable", "Bridge"]
+      "categories": [
+        "Stable",
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -243,7 +267,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://QmVBjgrJiUynv72MR6rRyUu1WLKX52bWGiKk7H2CaFDRNW"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -256,7 +282,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://Qmayt4JbYTkQinNUeVGLhp51LTRMD1273HRgo9p96SoQaM"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -269,7 +297,10 @@
         "decimals": 8,
         "thumbnailUri": "ipfs://QmT9bozupnmWjmjnXp8KcZqDY9HYLLr5KgojfxqgoWRgCt"
       },
-      "categories": ["Stable", "Bridge"]
+      "categories": [
+        "Stable",
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -282,7 +313,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://QmPrmELnhSoheHCHx6XcjSera7f89NYmXabBnSRSCdDjBh"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -295,7 +328,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://QmeaRuB578Xgy8jxbTxqmQ9s5wyioAEP85V7qbJFnn2uT8"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -308,7 +343,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://QmchBnjRjpweznHes7bVKHwgzd8D6Q7Yzwf6KmA4KS6Dgi"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -321,7 +358,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://QmPTob6YP9waErN4gMXqHg6ZyazSFB9CEojot4BB2XPpZJ"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -334,7 +373,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://QmPpmuLw4i9qJLMmGjXrGxrcPBwTiNZgLGuh7kYXeyTdyA"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -347,7 +388,10 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://QmZD5QDAeAUyyLYKiMmxD4vfWpVeYHctcbTkPmo4NudDHt"
       },
-      "categories": ["Stable", "Bridge"]
+      "categories": [
+        "Stable",
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -360,7 +404,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://QmTpss9a4uL3op7x5Lte7CcTKUSUhZsM1Gr34BWNvZCfy4"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -373,7 +419,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://QmQBezdVvotCGnFHgQNKduLdxEJhfgruSEqtwnWY7mESb2"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -386,7 +434,10 @@
         "decimals": 6,
         "thumbnailUri": "ipfs://QmQfHU9mYLRDU4yh2ihm3zrvVFxDrLPiXNYtMovUQE2S2t"
       },
-      "categories": ["Stable", "Bridge"]
+      "categories": [
+        "Stable",
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -399,7 +450,10 @@
         "decimals": 6,
         "thumbnailUri": "ipfs://QmVbiHa37pe2U9FfXBYfvrLNpb38rbXwaN19HwZD2speFA"
       },
-      "categories": ["Stable", "Bridge"]
+      "categories": [
+        "Stable",
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -412,7 +466,10 @@
         "decimals": 8,
         "thumbnailUri": "ipfs://Qmdj6n9T48LDWex8NkBMKUQJfZgardxZVdtRRibYQVzLCJ"
       },
-      "categories": ["BTC-based", "Bridge"]
+      "categories": [
+        "BTC-based",
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -425,7 +482,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://Qmezz1ztvo5JFshHupBEdUzVppyMfJH6K4kPjQRSZp8cLq"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -495,7 +554,9 @@
         "decimals": 12,
         "thumbnailUri": "ipfs://QmbvhanNCxydZEbGu1RdqkG3LcpNGv7XYsCHgzWBXnmxRd"
       },
-      "categories": ["Stable"]
+      "categories": [
+        "Stable"
+      ]
     },
     {
       "network": "mainnet",
@@ -568,7 +629,9 @@
         "decimals": 9,
         "thumbnailUri": "ipfs://QmXdQ3DaMsnqH7MEhX77foWfjxRnj8Qe88mwekkn4PSt3q"
       },
-      "categories": ["Tezotopia"]
+      "categories": [
+        "Tezotopia"
+      ]
     },
     {
       "network": "mainnet",
@@ -582,7 +645,9 @@
         "decimals": 9,
         "thumbnailUri": "ipfs://QmQxoTVVuFS677TQJFdVh1PNRoBmVbvkwJSxe1xvf9cSqU"
       },
-      "categories": ["Tezotopia"]
+      "categories": [
+        "Tezotopia"
+      ]
     },
     {
       "network": "mainnet",
@@ -724,7 +789,9 @@
         "decimals": 9,
         "thumbnailUri": "ipfs://QmXJdLDEec56EfJVtWW2XRcYBfkmWVHbCRBDAi7YTigisB"
       },
-      "categories": ["Tezotopia"]
+      "categories": [
+        "Tezotopia"
+      ]
     },
     {
       "network": "mainnet",
@@ -737,7 +804,9 @@
         "decimals": 9,
         "thumbnailUri": "ipfs://QmVjjDCrjBkETrWgXeL8NDg4DG2Qbi2hdQRpnWiCdS4qwg"
       },
-      "categories": ["Tezotopia"]
+      "categories": [
+        "Tezotopia"
+      ]
     },
     {
       "network": "mainnet",
@@ -750,7 +819,9 @@
         "decimals": 9,
         "thumbnailUri": "ipfs://QmUYksqRFqUA5LUfxFs1oWLmP8Ti2SdyPAq5u72aAQLN7D"
       },
-      "categories": ["Tezotopia"]
+      "categories": [
+        "Tezotopia"
+      ]
     },
     {
       "network": "mainnet",
@@ -763,7 +834,9 @@
         "decimals": 12,
         "thumbnailUri": "ipfs://Qmbev41h4axBqVzxsXP2NSaAF996bJjJBPb8FFZVqTvJTY"
       },
-      "categories": ["BTC-based"]
+      "categories": [
+        "BTC-based"
+      ]
     },
     {
       "network": "mainnet",
@@ -799,7 +872,9 @@
         "decimals": 6,
         "thumbnailUri": "ipfs://QmcqsYQn8pTxQr3P1dYpgYxQa6GQPmoBTSWQ8bpuFEuaqe"
       },
-      "categories": ["Stable"]
+      "categories": [
+        "Stable"
+      ]
     },
     {
       "network": "mainnet",
@@ -812,7 +887,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://bafybeieqpwi26snvx5gxhcmuv3lomi34iljayzawoa6gewosmviu4ii2bi"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -825,7 +902,10 @@
         "decimals": 8,
         "thumbnailUri": "ipfs://bafybeia7grvsvx2tno4qmwcatsnfdo7whi3elp2xidvg6iqxqkm4in2ife"
       },
-      "categories": ["BTC-based", "Bridge"]
+      "categories": [
+        "BTC-based",
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -838,7 +918,10 @@
         "decimals": 6,
         "thumbnailUri": "ipfs://bafybeic4zn6dqvbzfdsnlr7hbmddpl65i6hfmt6b2dppjxy3tako3vmovy"
       },
-      "categories": ["Stable", "Bridge"]
+      "categories": [
+        "Stable",
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -851,7 +934,10 @@
         "decimals": 6,
         "thumbnailUri": "ipfs://bafybeibi45na6dimqwdznpj6m254vos6hez7232mqrrbj27xzwsh36gz4i"
       },
-      "categories": ["Stable", "Bridge"]
+      "categories": [
+        "Stable",
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -864,7 +950,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://bafybeihluaaujem7nrt36bkhhfjl6wbkqugpt3hipgofh3vdui24wseupy"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -877,7 +965,9 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://bafybeic4q4bet3il3gdwgjqxs4i2czi6uujbyltan7liat5oyxmccp5sce"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -890,7 +980,10 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://bafybeicqbt2gepdljrjpcsaypkyjhbmuvra6jkpcwmmw6qgtwfu7dcdezy"
       },
-      "categories": ["Stable", "Bridge"]
+      "categories": [
+        "Stable",
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -903,7 +996,10 @@
         "decimals": 18,
         "thumbnailUri": "ipfs://bafybeidzwaurmronh7acpctit44q53riuwjsvp6b2r4hxublkeb3zhlkru"
       },
-      "categories": ["Stable", "Bridge"]
+      "categories": [
+        "Stable",
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -916,7 +1012,9 @@
         "decimals": 6,
         "thumbnailUri": "ipfs://QmRymVGWEudMfLrbjaEiXxngCRTDgWCsscjQMwizy4ZJjX"
       },
-      "categories": ["Stable"]
+      "categories": [
+        "Stable"
+      ]
     },
     {
       "network": "mainnet",
@@ -940,7 +1038,9 @@
         "decimals": 8,
         "thumbnailUri": "ipfs://QmfAJX4A534cpp2XjDGSM8b8PrqnSt8b7ytuteY8MXkBPD"
       },
-      "categories": ["BTC-based"]
+      "categories": [
+        "BTC-based"
+      ]
     },
     {
       "network": "mainnet",
@@ -965,7 +1065,9 @@
         "name": "Allbridge Wrapped BUSD",
         "thumbnailUri": "https://raw.githubusercontent.com/allbridge-io/media/main/busd256.png"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -978,7 +1080,9 @@
         "name": "Allbridge Wrapped Polygon USDC",
         "thumbnailUri": "https://raw.githubusercontent.com/allbridge-io/media/main/usdc256.png"
       },
-      "categories": ["Bridge"]
+      "categories": [
+        "Bridge"
+      ]
     },
     {
       "network": "mainnet",
@@ -1016,27 +1120,39 @@
       }
     },
     {
-      "network":"mainnet",
-      "type":"FA2",
-      "fa2TokenId":0,
-      "contractAddress":"KT1UMx7aZQWNKY9nC4LRYNsueEiGMfpcQhhD",
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 0,
+      "contractAddress": "KT1UMx7aZQWNKY9nC4LRYNsueEiGMfpcQhhD",
       "metadata": {
-        "name":"Lyzi",
-        "symbol":"LYZI",
-        "decimals":6,
-        "thumbnailUri":"ipfs://QmdqDheWwndbcxuGg6p5VyPbVvEwgCYexCQc5hJy2WZojq"
+        "name": "Lyzi",
+        "symbol": "LYZI",
+        "decimals": 6,
+        "thumbnailUri": "ipfs://QmdqDheWwndbcxuGg6p5VyPbVvEwgCYexCQc5hJy2WZojq"
       }
     },
     {
-      "network":"mainnet",
-      "type":"FA2",
-      "fa2TokenId":0,
-      "contractAddress":"KT1WihWRnmzhfebi6zqQ4tvNGiPeVxiGwTi2",
-      "metadata":{
-        "name":"Temple Key",
-        "symbol":"TKEY",
-        "decimals":18,
-        "thumbnailUri":"ipfs://Qmb9QUXYn1PW8e7E2CwpBMgEur7gFAPPpq2Zh7H2D7eQcT"
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 0,
+      "contractAddress": "KT1WihWRnmzhfebi6zqQ4tvNGiPeVxiGwTi2",
+      "metadata": {
+        "name": "Old Temple Key",
+        "symbol": "Old TKEY",
+        "decimals": 18,
+        "thumbnailUri": "ipfs://Qmb9QUXYn1PW8e7E2CwpBMgEur7gFAPPpq2Zh7H2D7eQcT"
+      }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 0,
+      "contractAddress": "KT1VaEsVNiBoA56eToEK6n6BcPgh1tdx9eXi",
+      "metadata": {
+        "name": "Temple Key",
+        "symbol": "TKEY",
+        "decimals": 18,
+        "thumbnailUri": "ipfs://Qmb9QUXYn1PW8e7E2CwpBMgEur7gFAPPpq2Zh7H2D7eQcT"
       }
     }
   ]
