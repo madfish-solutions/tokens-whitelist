@@ -1166,6 +1166,17 @@
         "decimals": 0,
         "thumbnailUri": "ipfs://QmXhFWvikC87rJGb9Gwc5cYG77rioK2FDBvgx9ej5iuRKG"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA12",
+      "contractAddress": "KT1GorwGk5WXLUc3sEWrmPLQBSekmYrtz1sn",
+      "metadata": {
+        "decimals": 8,
+        "name": "TCOIN",
+        "symbol": "TCOIN",
+        "thumbnailUri": "ipfs://QmdLVzCSS2QRku5ynpcghs8ccn8MjwJtrFCCmSniqoBksV"
+      }
     }
   ]
 }
