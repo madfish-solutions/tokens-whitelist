@@ -1177,6 +1177,18 @@
         "symbol": "TCOIN",
         "thumbnailUri": "ipfs://QmdLVzCSS2QRku5ynpcghs8ccn8MjwJtrFCCmSniqoBksV"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "contractAddress": "KT1QrtA753MSv8VGxkDrKKyJniG5JtuHHbtV",
+      "fa2TokenId": 0,
+      "metadata": {
+        "name": "Teia DAO token",
+        "symbol": "TEIA",
+        "decimals": 6,
+        "thumbnailUri": "ipfs://QmPen6FjwcnuN2yin335WA2Ae6j9FrBN17isHs9NGq2b7Q"
+      }
     }
   ]
 }
