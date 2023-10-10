@@ -1189,6 +1189,28 @@
         "decimals": 6,
         "thumbnailUri": "ipfs://QmPen6FjwcnuN2yin335WA2Ae6j9FrBN17isHs9NGq2b7Q"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA12",
+      "contractAddress": "KT19qWdPBRtkWrsQnDvVfsqJgJB19keBhhMX",
+      "metadata": {
+        "name": "Kord.Fi tez deposit",
+        "symbol": "dtez",
+        "decimals": 12,
+        "thumbnailUri": "ipfs://QmP9ZXExg9EXXFtn8uLzyqMxecWVxUDb25reBCCoCzDPdt"
+      }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA12",
+      "contractAddress": "KT1WL6sHt8syFT2ts7NCmb5gPcS2tyfRxSyi",
+      "metadata": {
+        "name": "Kord.Fi tzBTC deposit",
+        "symbol": "dtzbtc",
+        "decimals": "20",
+        "thumbnailUri": "ipfs://QmZqvc3iVpNWnieKuCC5rvaFUAQ95pdYqkJftduVfonAxo"
+      }
     }
   ]
 }
