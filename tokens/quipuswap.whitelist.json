@@ -1208,7 +1208,7 @@
       "metadata": {
         "name": "Kord.Fi tzBTC deposit",
         "symbol": "dtzbtc",
-        "decimals": "20",
+        "decimals": 20,
         "thumbnailUri": "ipfs://QmZqvc3iVpNWnieKuCC5rvaFUAQ95pdYqkJftduVfonAxo"
       }
     }
