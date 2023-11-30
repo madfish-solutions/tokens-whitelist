@@ -1211,6 +1211,17 @@
         "decimals": 20,
         "thumbnailUri": "ipfs://QmZqvc3iVpNWnieKuCC5rvaFUAQ95pdYqkJftduVfonAxo"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "contractAddress": "KT1MZg99PxMDEENwB4Fi64xkqAVh5d1rv8Z9",
+      "metadata": {
+        "name": "Tezos Pepe",
+        "symbol": "PEPE",
+        "decimals": 2,
+        "thumbnailUri": "ipfs://bafybeigqka2ynrib6ytxku3nvakork5smsxni5xdqro56kd7ecsfos7z7a"
+      }
     }
   ]
 }
