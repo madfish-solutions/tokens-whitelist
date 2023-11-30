@@ -1215,6 +1215,7 @@
     {
       "network": "mainnet",
       "type": "FA2",
+      "fa2TokenId": 0,
       "contractAddress": "KT1MZg99PxMDEENwB4Fi64xkqAVh5d1rv8Z9",
       "metadata": {
         "name": "Tezos Pepe",
