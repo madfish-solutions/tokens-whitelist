@@ -1223,6 +1223,18 @@
         "decimals": 2,
         "thumbnailUri": "ipfs://bafybeigqka2ynrib6ytxku3nvakork5smsxni5xdqro56kd7ecsfos7z7a"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 0,
+      "contractAddress": "KT1914CUZ7EegAFPbfgQMRkw8Uz5mYkEz2ui",
+      "metadata": {
+        "name": "Crunchy.Network CRNCHY",
+        "symbol": "CRNCHY",
+        "decimals": 8,
+        "thumbnailUri": "ipfs://bafkreifcxtpqojfllakxbhkmy5qfcur7izyyr2e7c6ukm7y43v3scgsszi"
+      }
     }
   ]
 }
