@@ -1235,6 +1235,18 @@
         "decimals": 8,
         "thumbnailUri": "ipfs://bafkreifcxtpqojfllakxbhkmy5qfcur7izyyr2e7c6ukm7y43v3scgsszi"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 0,
+      "contractAddress": "KT1WYjVYxUxmg56ByrrQ5m6X1dDwk6YMCcQz",
+      "metadata": {
+        "name": "HAIL Token",
+        "symbol": "HAIL",
+        "decimals": 9,
+        "thumbnailUri": "ipfs://bafybeie7a34mzebeytrlkj52m6b6j553wqffqbxnu275l3xk3jy2dqdpny"
+      }
     }
   ]
 }
