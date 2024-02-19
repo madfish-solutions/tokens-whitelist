@@ -1235,6 +1235,18 @@
         "decimals": 8,
         "thumbnailUri": "ipfs://bafkreifcxtpqojfllakxbhkmy5qfcur7izyyr2e7c6ukm7y43v3scgsszi"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 0,
+      "contractAddress": "KT1UQVEDf4twF2eMbrCKQAxN7YYunTAiCTTm",
+      "metadata": {
+        "name": "Pole",
+        "symbol": "$POLE ",
+        "decimals": 8,
+        "thumbnailUri": "ipfs://QmSLLPsEAQjERmFp3tsdc2zq5HrL2xPXG8H47G91rESV2p"
+      }
     }
   ]
 }
