@@ -10,7 +10,7 @@
     "Quipuswap",
     "List"
   ],
-  "logoURI": "https://cloudflare-ipfs.com/ipfs/Qmb2GiHN9EjcrN29J6y9PsXu3ZDosXTv6uLUWGZfRRSzS2/quipu.png",
+  "logoURI": "https://ipfs.io/ipfs/Qmb2GiHN9EjcrN29J6y9PsXu3ZDosXTv6uLUWGZfRRSzS2/quipu.png",
   "tokens": [
     {
       "network": "mainnet",
@@ -20,7 +20,7 @@
         "decimals": 6,
         "name": "Tezos",
         "symbol": "TEZ",
-        "thumbnailUri": "https://cloudflare-ipfs.com/ipfs/Qmf3brydfr8c6CKGUUu73Dd7wfBw66Zbzof5E1BWGeU222"
+        "thumbnailUri": "https://thumbs.dipdup.net/Qmf3brydfr8c6CKGUUu73Dd7wfBw66Zbzof5E1BWGeU222"
       }
     },
     {
@@ -137,7 +137,7 @@
         "name": "hic et nunc DAO",
         "symbol": "hDAO",
         "decimals": 6,
-        "thumbnailUri": "ipfs://QmPfBrZiRsC39S2VvNbhuxH9HnNcSx8aef9uBCG51J5c4e"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmPfBrZiRsC39S2VvNbhuxH9HnNcSx8aef9uBCG51J5c4e"
       }
     },
     {
@@ -173,7 +173,7 @@
         "symbol": "wAAVE",
         "name": "Wrapped AAVE",
         "decimals": 18,
-        "thumbnailUri": "ipfs://QmVUVanUUjHmgkjnUC6TVzG7pPz6iy7C8tnAoXNNpofYPg"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmVUVanUUjHmgkjnUC6TVzG7pPz6iy7C8tnAoXNNpofYPg"
       },
       "categories": [
         "Bridge"
@@ -188,7 +188,7 @@
         "symbol": "wBUSD",
         "name": "Wrapped BUSD",
         "decimals": 18,
-        "thumbnailUri": "ipfs://QmRB63vb8ThpmxHKF4An3XD8unHyCUuLYm5bZNhXwU4gAZ"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmRB63vb8ThpmxHKF4An3XD8unHyCUuLYm5bZNhXwU4gAZ"
       },
       "categories": [
         "Stable",
@@ -204,7 +204,7 @@
         "symbol": "wCEL",
         "name": "Wrapped CEL",
         "decimals": 4,
-        "thumbnailUri": "ipfs://QmfNuyU3V6XeS9PgVXMDq4h5ux1VciUXtApP2ZGC4VSGLd"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmfNuyU3V6XeS9PgVXMDq4h5ux1VciUXtApP2ZGC4VSGLd"
       },
       "categories": [
         "Bridge"
@@ -219,7 +219,7 @@
         "symbol": "wCOMP",
         "name": "Wrapped COMP",
         "decimals": 18,
-        "thumbnailUri": "ipfs://QmYy2jUUE69W5eE9uwh4x5LqUxHt3GVy8sjXHhpViqCspG"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmYy2jUUE69W5eE9uwh4x5LqUxHt3GVy8sjXHhpViqCspG"
       },
       "categories": [
         "Bridge"
@@ -234,7 +234,7 @@
         "symbol": "wCRO",
         "name": "Wrapped CRO",
         "decimals": 8,
-        "thumbnailUri": "ipfs://QmUuhxgCm2EXwddpU8ofBBh9z1qzxf2BJRbxxR1ebYr8Hd"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmUuhxgCm2EXwddpU8ofBBh9z1qzxf2BJRbxxR1ebYr8Hd"
       },
       "categories": [
         "Bridge"
@@ -249,7 +249,7 @@
         "symbol": "wDAI",
         "name": "Wrapped DAI",
         "decimals": 18,
-        "thumbnailUri": "ipfs://QmVov6RtfRNzuQGvGKmhnABUsfCiDKvn31amg8DUxzowtM"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmVov6RtfRNzuQGvGKmhnABUsfCiDKvn31amg8DUxzowtM"
       },
       "categories": [
         "Stable",
@@ -265,7 +265,7 @@
         "symbol": "wFTT",
         "name": "Wrapped FTT",
         "decimals": 18,
-        "thumbnailUri": "ipfs://QmVBjgrJiUynv72MR6rRyUu1WLKX52bWGiKk7H2CaFDRNW"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmVBjgrJiUynv72MR6rRyUu1WLKX52bWGiKk7H2CaFDRNW"
       },
       "categories": [
         "Bridge"
@@ -280,7 +280,7 @@
         "symbol": "wHT",
         "name": "Wrapped HT",
         "decimals": 18,
-        "thumbnailUri": "ipfs://Qmayt4JbYTkQinNUeVGLhp51LTRMD1273HRgo9p96SoQaM"
+        "thumbnailUri": "https://thumbs.dipdup.net/Qmayt4JbYTkQinNUeVGLhp51LTRMD1273HRgo9p96SoQaM"
       },
       "categories": [
         "Bridge"
@@ -295,7 +295,7 @@
         "symbol": "wHUSD",
         "name": "Wrapped HUSD",
         "decimals": 8,
-        "thumbnailUri": "ipfs://QmT9bozupnmWjmjnXp8KcZqDY9HYLLr5KgojfxqgoWRgCt"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmT9bozupnmWjmjnXp8KcZqDY9HYLLr5KgojfxqgoWRgCt"
       },
       "categories": [
         "Stable",
@@ -311,7 +311,7 @@
         "symbol": "wLEO",
         "name": "Wrapped LEO",
         "decimals": 18,
-        "thumbnailUri": "ipfs://QmPrmELnhSoheHCHx6XcjSera7f89NYmXabBnSRSCdDjBh"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmPrmELnhSoheHCHx6XcjSera7f89NYmXabBnSRSCdDjBh"
       },
       "categories": [
         "Bridge"
@@ -326,7 +326,7 @@
         "symbol": "wLINK",
         "name": "Wrapped LINK",
         "decimals": 18,
-        "thumbnailUri": "ipfs://QmeaRuB578Xgy8jxbTxqmQ9s5wyioAEP85V7qbJFnn2uT8"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmeaRuB578Xgy8jxbTxqmQ9s5wyioAEP85V7qbJFnn2uT8"
       },
       "categories": [
         "Bridge"
@@ -341,7 +341,7 @@
         "symbol": "wMATIC",
         "name": "Wrapped MATIC",
         "decimals": 18,
-        "thumbnailUri": "ipfs://QmchBnjRjpweznHes7bVKHwgzd8D6Q7Yzwf6KmA4KS6Dgi"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmchBnjRjpweznHes7bVKHwgzd8D6Q7Yzwf6KmA4KS6Dgi"
       },
       "categories": [
         "Bridge"
@@ -356,7 +356,7 @@
         "symbol": "wMKR",
         "name": "Wrapped MKR",
         "decimals": 18,
-        "thumbnailUri": "ipfs://QmPTob6YP9waErN4gMXqHg6ZyazSFB9CEojot4BB2XPpZJ"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmPTob6YP9waErN4gMXqHg6ZyazSFB9CEojot4BB2XPpZJ"
       },
       "categories": [
         "Bridge"
@@ -371,7 +371,7 @@
         "symbol": "wOKB",
         "name": "Wrapped OKB",
         "decimals": 18,
-        "thumbnailUri": "ipfs://QmPpmuLw4i9qJLMmGjXrGxrcPBwTiNZgLGuh7kYXeyTdyA"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmPpmuLw4i9qJLMmGjXrGxrcPBwTiNZgLGuh7kYXeyTdyA"
       },
       "categories": [
         "Bridge"
@@ -386,7 +386,7 @@
         "symbol": "wPAX",
         "name": "Wrapped PAX",
         "decimals": 18,
-        "thumbnailUri": "ipfs://QmZD5QDAeAUyyLYKiMmxD4vfWpVeYHctcbTkPmo4NudDHt"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmZD5QDAeAUyyLYKiMmxD4vfWpVeYHctcbTkPmo4NudDHt"
       },
       "categories": [
         "Stable",
@@ -402,7 +402,7 @@
         "symbol": "wSUSHI",
         "name": "Wrapped SUSHI",
         "decimals": 18,
-        "thumbnailUri": "ipfs://QmTpss9a4uL3op7x5Lte7CcTKUSUhZsM1Gr34BWNvZCfy4"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmTpss9a4uL3op7x5Lte7CcTKUSUhZsM1Gr34BWNvZCfy4"
       },
       "categories": [
         "Bridge"
@@ -417,7 +417,7 @@
         "symbol": "wUNI",
         "name": "Wrapped UNI",
         "decimals": 18,
-        "thumbnailUri": "ipfs://QmQBezdVvotCGnFHgQNKduLdxEJhfgruSEqtwnWY7mESb2"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmQBezdVvotCGnFHgQNKduLdxEJhfgruSEqtwnWY7mESb2"
       },
       "categories": [
         "Bridge"
@@ -432,7 +432,7 @@
         "symbol": "wUSDC",
         "name": "Wrapped USDC",
         "decimals": 6,
-        "thumbnailUri": "ipfs://QmQfHU9mYLRDU4yh2ihm3zrvVFxDrLPiXNYtMovUQE2S2t"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmQfHU9mYLRDU4yh2ihm3zrvVFxDrLPiXNYtMovUQE2S2t"
       },
       "categories": [
         "Stable",
@@ -448,7 +448,7 @@
         "symbol": "wUSDT",
         "name": "Wrapped USDT",
         "decimals": 6,
-        "thumbnailUri": "ipfs://QmVbiHa37pe2U9FfXBYfvrLNpb38rbXwaN19HwZD2speFA"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmVbiHa37pe2U9FfXBYfvrLNpb38rbXwaN19HwZD2speFA"
       },
       "categories": [
         "Stable",
@@ -464,7 +464,7 @@
         "symbol": "wWBTC",
         "name": "Wrapped WBTC",
         "decimals": 8,
-        "thumbnailUri": "ipfs://Qmdj6n9T48LDWex8NkBMKUQJfZgardxZVdtRRibYQVzLCJ"
+        "thumbnailUri": "https://thumbs.dipdup.net/Qmdj6n9T48LDWex8NkBMKUQJfZgardxZVdtRRibYQVzLCJ"
       },
       "categories": [
         "BTC-based",
@@ -480,7 +480,7 @@
         "symbol": "wWETH",
         "name": "Wrapped WETH",
         "decimals": 18,
-        "thumbnailUri": "ipfs://Qmezz1ztvo5JFshHupBEdUzVppyMfJH6K4kPjQRSZp8cLq"
+        "thumbnailUri": "https://thumbs.dipdup.net/Qmezz1ztvo5JFshHupBEdUzVppyMfJH6K4kPjQRSZp8cLq"
       },
       "categories": [
         "Bridge"
@@ -715,7 +715,7 @@
         "symbol": "PAUL",
         "name": "PAUL Token",
         "decimals": 8,
-        "thumbnailUri": "ipfs://QmeoZ5ZnGnCMq8iGPeBjoS628c526DR37jnDstqEnTfkwC"
+        "thumbnailUri": "https://thumbs.dipdup.net/QmeoZ5ZnGnCMq8iGPeBjoS628c526DR37jnDstqEnTfkwC"
       }
     },
     {
@@ -751,7 +751,7 @@
         "decimals": 6,
         "name": "Pixel",
         "symbol": "PXL",
-        "thumbnailUri": "https://cloudflare-ipfs.com/ipfs/Qma4wzNogtUkuhMgzyKBqzaYBqabLVZrHcLbLmJE38B5XH"
+        "thumbnailUri": "ipfs://Qma4wzNogtUkuhMgzyKBqzaYBqabLVZrHcLbLmJE38B5XH"
       }
     },
     {
