@@ -1247,6 +1247,18 @@
         "decimals": 8,
         "thumbnailUri": "ipfs://QmSLLPsEAQjERmFp3tsdc2zq5HrL2xPXG8H47G91rESV2p"
       }
+    },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "fa2TokenId": 0,
+      "contractAddress": "KT1CxE36bXiCJnLZ9C9z1Ma921qu3ksmeZxc",
+      "metadata": {
+        "name": "StorryTV",
+        "symbol": "STV",
+        "decimals": 8,
+        "thumbnailUri": "ipfs://Qmc4d4heREFwnLitFggtz4ATHPzHvD8mJu3wSfA35v3ZK7"
+      }
     }
   ]
 }
