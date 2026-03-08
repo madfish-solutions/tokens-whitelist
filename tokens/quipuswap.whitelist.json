@@ -1260,17 +1260,3 @@
       "thumbnailUri": "ipfs://bafybeibiohfmkqcslplibgrn4giwrhuw4r4jqkhhdm7ozj4ufk7ch46fxe"
     }
   }
-}
- ] 
-    "network": "mainnet",
-    "type": "FA2",
-    "fa2TokenId": 0,
-    "contractAddress": "KT193FiCoUkthuDXcZ6Chr1J19TRoJqjWSYu",
-    "metadata": {
-      "name": "Wristory Token",
-      "symbol": "WR",
-      "decimals": 6,
-      "thumbnailUri": "ipfs://bafybeibiohfmkqcslplibgrn4giwrhuw4r4jqkhhdm7ozj4ufk7ch46fxe"
-    }
-  }
-]
