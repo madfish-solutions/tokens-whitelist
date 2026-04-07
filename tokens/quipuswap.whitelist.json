@@ -1210,6 +1210,16 @@
         "symbol": "dtzbtc",
         "decimals": 20,
         "thumbnailUri": "ipfs://QmZqvc3iVpNWnieKuCC5rvaFUAQ95pdYqkJftduVfonAxo"
+      },
+    {
+      "network": "mainnet",
+      "type": "FA2",
+      "contractAddress": "KT1V1pEEMp9MJsoc7e8GfqQApzcARFr2qmAC",
+      "metadata": {
+        "name": "DOGtEzos",
+        "symbol": "DOGtEzos",
+        "decimals": 2,
+        "thumbnailUri": "ipfs://QmXbUfm5AWnJf6MHNsDb7tpcBboUqF5XfUUC66Qz9hsdo6"
       }
     },
     {
